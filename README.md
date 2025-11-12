@@ -132,3 +132,31 @@ Dans **47 893 foyers** équipés d'Athenis :
 Le futur de la médecine n'était plus une promesse. Il était là, dans chaque foyer, veillant *silencieusement*.
 
 ---
+
+---
+
+## 📊 Statistiques de l'Histoire
+
+- **Auteur** : Hlk971
+- **Branche contributeur** : Hlk971
+- **Chapitres** : 4 + Prologue
+- **Personnages principaux** : Marie Dubois, Dr. Martens, Dr. Sarah Chen
+- **Lieux** : Bruxelles, Islande, Munich, Lyon, Amsterdam
+- **Timeline** : 23 mars 2045, 02h47 - 03h42
+- **Technologies** : Athenis Robot, BioCloud, Athenis First
+- **Vies sauvées** : 12 en une nuit
+- **Mots** : ~2500
+
+---
+
+✅ **Perfect** - Aucune faute détectée! Histoire médicalement et narrativement cohérente.
+
+---
+
+> *"Athenis n'est pas qu'un robot. C'est la médecine de demain, déjà chez vous."*
+> — Slogan Athenis Corp
+
+**Repository:** https://github.com/Hlk971/exquisite-corpse  
+**Auteur:** Hlk971  
+**Version:** 1.0  
+**Date:** Novembre 2025
