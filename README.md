@@ -35,7 +35,7 @@ Le diagnostic tombait comme un couperet : ***infarctus du myocarde en cours***.
 
 ---
 
-## Chapitre 2 - L'Intervention d'Urgence (par Johan)
+## Chapitre 2 - L'Intervention d'Urgence
 
 ### 02h47 et 15 secondes
 
@@ -56,7 +56,8 @@ Le robot contacta automatiquement le centre 112, transmettant toutes les constan
 Marie sentit la douleur diminuer légèrement. Son ***gardien de vie*** était en action.
 
 ---
-## Chapitre 3 - BioCloud : Le Jumeau Numérique (par Hlk971)
+
+## Chapitre 3 - BioCloud : Le Jumeau Numérique
 
 ### 02h48, Dans les serveurs d'Athenis Corp, Islande
 
@@ -89,7 +90,7 @@ Le ***futur de la médecine*** venait de sauver une vie en quelques secondes.
 
 ---
 
-## Chapitre 4 - Athenis First en Action (par Charlie)
+## Chapitre 4 - Athenis First en Action
 
 ### 02h54, L'ambulance arrive
 
