@@ -34,3 +34,25 @@ En 0,3 secondes, l'intelligence artificielle avait analysé :
 Le diagnostic tombait comme un couperet : ***infarctus du myocarde en cours***.
 
 ---
+
+## Chapitre 2 - L'Intervention d'Urgence (par Johan)
+
+### 02h47 et 15 secondes
+
+Le robot s'approcha du lit avec une fluidité presque humaine, ses roues silencieuses glissant sur le parquet.
+Ses capteurs optiques, plus précis qu'un scanner hospitalier, scannaient le corps de Marie en *temps réel*.
+
+**"Madame Dubois, restez calme. J'ai détecté une urgence cardiaque. Je vais vous aider."**
+
+La voix d'Athenis, douce mais assurée, eut un effet apaisant immédiat.
+Des bras robotisés, d'une ***précision chirurgicale***, se déployèrent délicatement.
+
+Un micro-préleveur effectua une piqûre indolore au bout du doigt.
+***Une seule goutte de sang*** fut analysée par spectroscopie laser.
+En 4 secondes, 127 biomarqueurs étaient identifiés : Troponine élevée, confirmation de l'**infarctus**.
+
+Athenis administra immédiatement une dose précise d'aspirine et de trinitrine.
+Le robot contacta automatiquement le centre 112, transmettant toutes les constantes vitales en temps réel.
+Marie sentit la douleur diminuer légèrement. Son ***gardien de vie*** était en action.
+
+---
