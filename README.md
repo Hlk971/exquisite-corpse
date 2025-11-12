@@ -425,7 +425,9 @@ Mais son regard se tourna vers les laboratoires, au sous-sol.
 
 Là-bas, une nouvelle génération de scientifiques travaillait sur ***Athenis Neo***.
 
----## Épilogue - Athenis Neo (2052)
+---
+
+## Épilogue - Athenis Neo (2052)
 
 ### Dans les Laboratoires Secrets
 
