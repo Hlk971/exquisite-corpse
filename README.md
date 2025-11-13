@@ -1,5 +1,16 @@
 # Athenis : Le Gardien de Vie 🤖⚕️
 
+<div align="center">
+
+![Athenis - Robot Médical Autonome](./images/athenis-hero.png)
+
+*Le gardien de vie qui veille sur des millions de foyers*
+
+**Intelligence Artificielle • Médecine Préventive • Espoir**
+
+</div>
+
+---
 ## Prologue - 2044, Le Début d'une Révolution
 
 > "Chaque année, 50 000 vies auraient pu être sauvées si les premiers gestes médicaux avaient été effectués à temps."
